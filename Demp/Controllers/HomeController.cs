@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Demo.Models;
+using DemoArch.Service;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Demp.Models;
-using DemoArch.Service;
+using System.Diagnostics;
 
-namespace Demp.Controllers
+namespace Demo.Controllers
 {
     public class HomeController : Controller
     {

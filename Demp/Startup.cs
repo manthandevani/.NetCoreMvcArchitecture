@@ -13,7 +13,7 @@ using Microsoft.EntityFrameworkCore;
 using DemoArch.Repository.UOW;
 using DemoArch.Service;
 
-namespace Demp
+namespace Demo
 {
     public class Startup
     {
